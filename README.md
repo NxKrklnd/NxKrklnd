@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Mobile Development using React Native via VSCODE & Expo
 - 💞️ I’m looking to collaborate on future projects
 - 📫 How to reach me simply via my student email tan.nicko1023@gmail.com
-- ⚡ Fun fact: My Myers-Briggs Type Indicator or MBTI Personality Type is INTP-A
+- ⚡ Fun fact: Hit me via email, we discuss something interesting. Maybe, just maybe. All my fun facts will decide to hang out. 
 
 <!---
 NxKrklnd/NxKrklnd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
