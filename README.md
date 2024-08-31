@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NxKrklnd
-- 👀 I’m interested in Artificial Intelligence, Machine Learning, Database, Mobile Development 
+- 👀 I’m interested in Artificial Intelligence, Machine Learning, DDBMS, DBMS, Data Analysation, & Mobile Development.
 - 🌱 I’m currently learning Mobile Development using React Native via VSCODE & Expo
 - 💞️ I’m looking to collaborate on future projects
 - 📫 How to reach me simply via my student email tan.nicko1023@gmail.com
